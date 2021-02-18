@@ -1,0 +1,10 @@
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\bin\Debug\AFP_ARS.exe.config
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\bin\Debug\AFP_ARS.exe
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\bin\Debug\AFP_ARS.pdb
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\obj\Debug\AFP_ARS.csprojAssemblyReference.cache
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\obj\Debug\AFP_ARS.Form1.resources
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\obj\Debug\AFP_ARS.Properties.Resources.resources
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\obj\Debug\AFP_ARS.csproj.GenerateResource.cache
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\obj\Debug\AFP_ARS.csproj.CoreCompileInputs.cache
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\obj\Debug\AFP_ARS.exe
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\AFP_ARS\AFP_ARS\obj\Debug\AFP_ARS.pdb
